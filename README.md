@@ -1,3 +1,3 @@
 # lokumn
 lokumnin/lokumn
-http://github.com/lokumnin
+http://github.com/lokumnin/lokumn
